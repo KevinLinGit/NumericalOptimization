@@ -1,0 +1,17 @@
+*~
+\#*
+.\#*
+*.[oad]
+*.so
+*.swp
+*.swo
+*.orig
+*.jar
+*.class
+*.vim
+*.kate-swp
+tags
+/build
+/bin
+/lib
+/testbin
